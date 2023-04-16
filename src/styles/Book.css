@@ -1,0 +1,42 @@
+.Lan{
+    height: 10vh;
+    float:right;
+    margin-bottom: 10px;
+}
+.FormMAin{
+    background: no-repeat fixed center url("../component/image/form.png");
+    width: 100%;
+    height: 100vh;
+}
+.form22{
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(171, 219, 219);
+    color: rgb(22, 15, 15);
+    height: 100vh;
+    padding: 8px;
+}
+.h1{
+    text-align: center;
+}
+form{
+    padding: 0px 20px;
+    margin:5% 30%;
+    color: rgb(27, 24, 26);
+}
+#symptoms{
+    color: black;
+}
+.myFor{
+    margin:5% 20%;
+    padding: auto;
+}
+.la{
+    font-size: 200px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.in{
+    margin:0 2%;
+  
+}

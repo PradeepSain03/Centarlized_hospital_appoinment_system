@@ -1,0 +1,16 @@
+.token{
+    background: url("../component/image/token1.png");
+ background-color: rgb(147, 201, 201);
+    height: 100vh;
+   
+}
+.token1{
+    text-align: center;
+  width: 60%;
+    height: 50vh;
+}
+.token2{
+    background-color: rgba(184, 180, 180, 0.473);
+    padding: 50px;
+    border-radius: 20px;
+}
